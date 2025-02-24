@@ -1,22 +1,4 @@
-:root{
-     --background: url('https://c8.alamy.com/compfr/bbnfyc/hitler-adolf-20-4-1889-30-4-1945-politicien-allemand-nsdap-chancelier-de-fuehrer-et-reich-depuis-1933-pendant-un-discours-1930-demi-longueur-bbnfyc.jpg');
-     --activetext-colour: white;
- 
-     --primary1-colour: red;
-     --primary2-colour: rgba(255,0,0,0.5);
-     --primary3-colour: rgba(100,0,0,0.6);
- 
-     --secondary1-colour: rgba(50,50,50,0.3);
-     --secondary2-colour: rgba(100,100,100,0.5);
-     --secondary3-colour: rgba(0,0,0,0.5);
- 
-     --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
-     --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
- }
-   
+
  /*
  Theme Owned and Made by VaporousCreeper#9514
    
